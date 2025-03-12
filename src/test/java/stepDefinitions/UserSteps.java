@@ -10,7 +10,7 @@ import io.restassured.response.Response;
 import static io.restassured.RestAssured.given;
 import static org.testng.Assert.*;
 
-public class userStepDefinitions {
+public class UserSteps {
 
     private static final String BASE_URL = "http://127.0.0.1:8900";
 
